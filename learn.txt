@@ -4,3 +4,4 @@ push with ssh
 create new branch dev
 edit again
 create feature branch
+feature/1.0.0
