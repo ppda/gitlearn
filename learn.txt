@@ -9,3 +9,4 @@ feature1.0.0push
 feature1.2.0
 feature1.4.0
 feature1.5.0
+feature1.6.0
